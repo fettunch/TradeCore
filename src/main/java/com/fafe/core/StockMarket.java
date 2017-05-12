@@ -2,7 +2,7 @@ package com.fafe.core;
 
 public enum StockMarket {
 
-	MILAN("MI"), NYSE("NYSE");
+	MILAN("MI"), NYSE("NYSE"), PARIS("PA"), ;
 
 	private final String acr;
 
